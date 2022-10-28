@@ -1,0 +1,26 @@
+[2022-10-28 07:45:37] [1] [INFO] 
+============= Test configuration =============
+url=https://www.apple.com
+env=DEMO
+selenium_url=http://localhost:9515
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:9515
+
+------------- Driver capabilities -----------
+capabilities.browserName=Chrome
+capabilities.browserVersion=107
+================================================
+
+[2022-10-28 07:45:37] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-28 07:45:38] [1] [INFO] Reflections took 571 ms to scan 11 urls, producing 2602 keys and 12692 values 
+[2022-10-28 07:45:38] [1] [INFO] Set thread-count=1
+[2022-10-28 07:45:38] [1] [INFO] Set data-provider-thread-count=1
+[2022-10-28 07:45:38] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-10-28 07:45:47] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-10-28 07:45:47] [1] [INFO] RESULT #1: TEST [Command line test - testOpenApple] PASS [screenshots=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/cb79ef20-e060-4680-a8ce-cc4f79101d15/report.html | log=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/cb79ef20-e060-4680-a8ce-cc4f79101d15/test.log]
+[2022-10-28 07:45:47] [1] [INFO] RESULT #2: TEST [Command line test - testOpenIpadTabOnApple] PASS [screenshots=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/21a9e81b-ab60-4ef3-abdc-35d00b99a4f0/report.html | log=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/21a9e81b-ab60-4ef3-abdc-35d00b99a4f0/test.log]
+[2022-10-28 07:45:47] [1] [INFO] RESULT #3: TEST [Command line test - testOpenMacTabOnApple] PASS [screenshots=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/ff21b6ef-2d4b-4a8c-beab-504fc55f6c69/report.html | log=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/ff21b6ef-2d4b-4a8c-beab-504fc55f6c69/test.log]
+[2022-10-28 07:45:47] [1] [INFO] RESULT #4: TEST [Command line test - testReadMacPriceApple] PASS [screenshots=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/cbe71b8a-11fa-4c91-8b36-df9c1717d8f8/report.html | log=file://C:\Users\matpa\IdeaProjects\carinaTests\web\carinawebtests\.\reports\1666986337594/cbe71b8a-11fa-4c91-8b36-df9c1717d8f8/test.log]

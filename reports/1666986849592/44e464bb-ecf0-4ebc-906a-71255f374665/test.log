@@ -1,0 +1,17 @@
+[2022-10-28 07:54:19] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-28 07:54:19] [1] [INFO] TEST [Command line test - testReadMacPriceApple] STARTED at [15:54:19 2022-10-28]
+[2022-10-28 07:54:19] [1] [INFO] Starting driver session...
+[2022-10-28 07:54:20] [1] [INFO] Driver session started.
+[2022-10-28 07:54:20] [1] [INFO] INFO: opening url 'https://www.apple.com'
+[2022-10-28 07:54:20] [1] [INFO] INFO: url 'https://www.apple.com' is opened.
+[2022-10-28 07:54:21] [1] [INFO] selecting 'Mac' tab...
+[2022-10-28 07:54:21] [1] [INFO] currentTab: 
+[2022-10-28 07:54:21] [1] [INFO] currentTab: 
+[2022-10-28 07:54:21] [1] [INFO] currentTab: 
+[2022-10-28 07:54:21] [1] [INFO] currentTab: 
+[2022-10-28 07:54:21] [1] [INFO] currentTab: 
+[2022-10-28 07:54:21] [1] [INFO] currentTab: Apple
+[2022-10-28 07:54:21] [1] [INFO] currentTab: Store
+[2022-10-28 07:54:21] [1] [INFO] currentTab: Mac
+[2022-10-28 07:54:21] [1] [INFO] PASS: element 'tabLinks7' is clicked.
+[2022-10-28 07:54:21] [1] [INFO] TEST [Command line test - testReadMacPriceApple] PASSED at [15:54:21 2022-10-28]
